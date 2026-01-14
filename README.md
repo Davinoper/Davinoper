@@ -2,7 +2,7 @@
 
   ## Olá, sou Davi Nolêto! 👋
 
-  ### 💻 Dev .NET | Entusiasta de Clean Code | Arquiteto de Soluções
+  ### 💻 Dev .NET | AZURE | Arquiteto de Soluções
 
   Sou um desenvolvedor que transforma café ☕ em código limpo e escalável. Minha especialidade é o ecossistema **.NET**, onde crio desde interfaces ricas com **Blazor** até backends robustos seguindo **SOLID** e **Clean Architecture**. Gosto de resolver problemas complexos com soluções simples e elegantes.
 
